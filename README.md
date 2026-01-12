@@ -1,4 +1,4 @@
-### Hi, I’m Oleksandr Oliiar — Frontend Developer 👋
+### Hi, I’m Oleksandr Oliiar — Web Developer 👋
 
 Frontend Developer with **3+ years** building production **React** and **Next.js** applications. I focus on **component-driven architecture**, **performance**, and **clean, maintainable UI systems**—from Figma 🎨 to shipping end-to-end features 🚀 with reliable testing ✅.
 
