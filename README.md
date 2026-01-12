@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I’m Oleksandr Oliiar — Frontend Developer 👋
 
-<!--
-**oliiaroleksandr/oliiaroleksandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer with **3+ years** building production **React** and **Next.js** applications. I focus on **component-driven architecture**, **performance**, and **clean, maintainable UI systems**—from Figma 🎨 to shipping end-to-end features 🚀 with reliable testing ✅.
 
-Here are some ideas to get you started:
+### Tech stack 🛠️
+- **Core**: React, Next.js, TypeScript, JavaScript
+- **UI**: HTML, CSS, Tailwind, Sass, MUI, shadcn/ui
+- **State / Data**: Redux Toolkit, Zustand, TanStack Query
+- **Testing**: Jest, Vitest, React Testing Library, Playwright
+- **Tooling**: Vite, Webpack, Git, GitHub, Figma, VS Code, Cursor
+- **Backend (working knowledge)**: Node.js, Express, SQL, MongoDB, Prisma, Drizzle, WebSockets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact 📫
+- **Email**: sashaoliyar7@gmail.com
+- **Portfolio**: https://portfolio-five-neon-92.vercel.app
+- **LinkedIn**: www.linkedin.com/in/oleksandr-oliiar
+
+**Checkout my projects below 👇**
