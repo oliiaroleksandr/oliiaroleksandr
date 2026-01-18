@@ -5,10 +5,10 @@ I am a Web Developer experienced in building production **React** and **Next.js*
 ### Tech stack 🛠️
 - **Core**: React, Next.js, TypeScript, JavaScript
 - **UI**: HTML, CSS, Tailwind, Sass, MUI, shadcn/ui
-- **State / Data**: Redux Toolkit, Zustand, TanStack Query
+- **State / Data**: Redux Toolkit, Zustand, TanStack Query, Apollo Client
 - **Testing**: Jest, Vitest, React Testing Library, Playwright
-- **Tooling**: Vite, Webpack, Git, GitHub, Figma, VS Code, Cursor
-- **Backend (working knowledge)**: Node.js, Express, SQL, MongoDB, Prisma, Drizzle, WebSockets
+- **Tooling**: Vite, Webpack, Docker, Git, GitHub, Figma, VS Code, Cursor
+- **Backend (working knowledge)**: Node.js, Express, SQL, MongoDB, Prisma, Drizzle, Graphql WebSockets
 
 ### Contact 📫
 - **Email**: sashaoliyar7@gmail.com
